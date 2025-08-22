@@ -1,15 +1,17 @@
+
 <!-- Banner / Hero -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&duration=3000&pause=700&color=FF69B4&center=true&vCenter=true&width=700&lines=Oi%2C+eu+sou+a+Camila+%F0%9F%91%8B;Back-end+%26+web+dev+apaixonada+por+produtos;Java%2C+SQL%2C+React+%26+dados;Construindo+solu%C3%A7%C3%B5es+simples+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&duration=3000&pause=700&color=FF69B4&center=true&vCenter=true&width=700&lines=Oi%2C+eu+sou+a+Isabelle+%F0%9F%91%8B;Fullstack+developer+%26+designer+gr%C3%A1fica;Java%2C+SQL%2C+React+%26+criatividade;Construindo+solu%C3%A7%C3%B5es+simples+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 <h1 align="center">✨ Bem-vinda(o) ao meu GitHub ✨</h1>
 
 <p align="center">
   <img alt="badge" src="https://img.shields.io/badge/feita%20com-amor-ff69b4?style=for-the-badge&logo=heart&logoColor=white">
-  <img alt="visitors" src="https://komarev.com/ghpvc/?username=SEU_USUARIO_AQUI&color=ff69b4&style=for-the-badge">
+  <img alt="visitors" src="https://komarev.com/ghpvc/?username=dallaisa&color=ff69b4&style=for-the-badge">
   <img alt="status" src="https://img.shields.io/badge/open%20to-colab-ffc0cb?style=for-the-badge">
 </p>
+
 
 ## 🌸 Sobre mim
 - 🎓 Estudante de **Engenharia de Software** e apaixonada por design gráfico.  
