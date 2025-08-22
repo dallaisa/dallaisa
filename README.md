@@ -58,10 +58,10 @@
 
 ## 📨 Onde me encontrar
 <p>
-  <a href="https://www.linkedin.com/in/dallaisa/">
+  <a href="[https://www.linkedin.com/in/dallaisa](https://www.linkedin.com/in/isabelledalla)/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conectar-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:dallaisa@gmail.com">
+  <a href="isabelledallabenetaofc@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-Diga%20oi!-ffc0cb?style=for-the-badge&logo=minutemailer&logoColor=white">
   </a>
 </p>
