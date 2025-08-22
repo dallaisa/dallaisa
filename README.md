@@ -67,7 +67,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=ff69b4&height=60&text=Obrigada%20por%20visitar!%20⭐&fontColor=ffffff&section=footer"/>
-</p>
